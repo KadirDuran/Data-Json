@@ -1,5 +1,5 @@
 
-data = [
+
 {
     "il": "Adana",
     "plaka": 1,
@@ -1461,4 +1461,3 @@ data = [
     "Kaynaşlı"
     ]
 }
-]
